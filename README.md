@@ -10,4 +10,6 @@ Resample: Aggregates data based on specified frequency and aggregation function.
 
 Link : https://towardsdatascience.com/resample-function-of-pandas-79b17ec82a78
 
+## Ways of filling out the NAN values:
+
 
