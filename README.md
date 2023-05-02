@@ -13,3 +13,6 @@ Link : https://towardsdatascience.com/resample-function-of-pandas-79b17ec82a78
 ## Ways of filling out the NAN values:
 
 
+## Sequence (preparing Time Series For RNN and LSTM)
+Link : https://machinelearningmastery.com/how-to-use-the-timeseriesgenerator-for-time-series-forecasting-in-keras/
+
